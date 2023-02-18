@@ -1,0 +1,25 @@
+{
+    id: 25
+    name: {
+        last: 'Пупкин',
+        first: 'Василий',
+        middle: 'Петрович',
+    },
+    address: {
+        country: 'Wonderland',
+        state: 'Hyilka',
+        city: 'Gang',
+        street: 'Fkng st.',
+        house: 41
+    }
+    phones: [
+        {country: 7, code: 017, number: 0000001},
+        {country: 7, code: 017, number: 0000002},
+    ],
+    createDate: '2016-04-12 12:34:00',
+    statuses: [
+        {status: 'active', date: '2019-04-12 13:34:07'},
+        {status: 'archive', date: '2018-04-13 14:56:23'},
+        {status: 'active', date: '2017-04-16 15:02:10'},
+    ];
+}
